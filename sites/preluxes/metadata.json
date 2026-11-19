@@ -1,0 +1,6 @@
+{
+  "name": "Preluxes — Curated Secondhand Fashion",
+  "description": "Temukan yang berharga. Rawat lebih lama. Curated secondhand fashion marketplace for Tas, Pakaian, Sepatu, dan Aksesori.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

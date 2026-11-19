@@ -1,0 +1,6 @@
+{
+  "name": "Studio DST V10+ — Brand Intelligence Studio",
+  "description": "Integrated Digital Creative Agency Operating System and Brand Intelligence Studio for DST Digital Creative Agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

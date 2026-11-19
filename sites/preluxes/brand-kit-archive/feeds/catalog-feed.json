@@ -1,0 +1,341 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-11-18T10:10:59.872Z",
+  "brand": "Preluxes",
+  "tagline": "Temukan yang berharga. Rawat lebih lama.",
+  "currency": "IDR",
+  "timezone": "Asia/Jakarta",
+  "paymentMode": "whatsapp_chat",
+  "targetStudioAppUrl": "https://aistudio.google.com/apps/c6e048f9-6f7c-443c-a9fb-de31247fbd13?showPreview=true&showAssistant=true&fullscreenApplet=true",
+  "seededInFirestore": false,
+  "totalItems": 6,
+  "categories": [
+    {
+      "id": "cat-tas",
+      "name": "Tas",
+      "slug": "tas",
+      "description": "Tas kulit terstruktur dan pilihan harian yang siap menemani kebutuhan baru.",
+      "imageUrl": "http://localhost:3000/src/assets/images/item_leather_tote_1794946985545.jpg",
+      "url": "http://localhost:3000/category/tas"
+    },
+    {
+      "id": "cat-pakaian",
+      "name": "Pakaian",
+      "slug": "pakaian",
+      "description": "Blazer, gaun, dan outerwear berpotongan klasik dengan ukuran aktual yang tercatat.",
+      "imageUrl": "http://localhost:3000/src/assets/images/item_linen_blazer_1794946984670.jpg",
+      "url": "http://localhost:3000/category/pakaian"
+    },
+    {
+      "id": "cat-sepatu",
+      "name": "Sepatu",
+      "slug": "sepatu",
+      "description": "Sepatu kulit dan alas kaki pilihan dengan keterangan kondisi sol dan upper.",
+      "imageUrl": "http://localhost:3000/src/assets/images/item_leather_loafers_1794947344379.jpg",
+      "url": "http://localhost:3000/category/sepatu"
+    },
+    {
+      "id": "cat-aksesori",
+      "name": "Aksesori",
+      "slug": "aksesori",
+      "description": "Belt, tie, hat, kalung, dan gelang untuk melengkapi gaya personal Anda.",
+      "imageUrl": "http://localhost:3000/src/assets/images/item_gold_necklace_1794947344193.jpg",
+      "url": "http://localhost:3000/category/aksesori"
+    }
+  ],
+  "brands": [
+    {
+      "id": "brand-atelier-demo",
+      "name": "Kurasi Klasik (Contoh)",
+      "slug": "kurasi-klasik-contoh",
+      "description": "Label ilustratif untuk contoh kurasi katalog Preluxes."
+    },
+    {
+      "id": "brand-archive-demo",
+      "name": "Arsip Harian (Contoh)",
+      "slug": "arsip-harian-contoh",
+      "description": "Label ilustratif untuk contoh produk harian."
+    }
+  ],
+  "items": [
+    {
+      "id": "demo-prod-blazer",
+      "sku": "PLX-DEMO-001",
+      "slug": "blazer-tailored-wol-linen-olive",
+      "name": "Blazer Tailored Wol-Linen Olive",
+      "description": "Item demonstrasi: blazer berpotongan klasik dua kancing dengan kerah notched lapel dan saku tempel. Cocok untuk padanan kasual rapi maupun ruang kerja.",
+      "categoryId": "cat-pakaian",
+      "categoryName": "Pakaian",
+      "brandName": "Kurasi Klasik (Contoh)",
+      "gender": "Unisex",
+      "sizeLabel": "M (Fit L ringan)",
+      "color": "Olive Charcoal",
+      "material": "Campuran Wol & Linen (perkiraan label dalam)",
+      "conditionGrade": "B",
+      "conditionNotes": "Kondisi sangat baik. Struktur bahu masih tegak, furing dalam bersih, seluruh kancing utuh. Terdapat kerutan alami khas serat linen.",
+      "defectNotes": "Sedikit tanda pemakaian wajar di lipatan siku kiri bagian dalam.",
+      "measurements": {
+        "chestWidthCm": 54,
+        "lengthCm": 73,
+        "shoulderWidthCm": 45,
+        "sleeveLengthCm": 61
+      },
+      "originalPrice": 890000,
+      "sellingPrice": 485000,
+      "sellingPriceFormatted": "Rp 485.000",
+      "availableQuantity": 1,
+      "isPurchasable": true,
+      "isFeatured": true,
+      "isDemo": true,
+      "primaryImageUrl": "http://localhost:3000/src/assets/images/item_linen_blazer_1794946984670.jpg",
+      "images": [
+        {
+          "url": "http://localhost:3000/src/assets/images/item_linen_blazer_1794946984670.jpg",
+          "altText": "Tampak depan Blazer Tailored Wol-Linen Olive (Data Demonstrasi)",
+          "imageType": "front",
+          "isPrimary": true,
+          "sortOrder": 0
+        }
+      ],
+      "productUrl": "http://localhost:3000/product/blazer-tailored-wol-linen-olive",
+      "whatsappInquiryUrl": "https://wa.me/6281200000000?text=Halo%20Admin%20Preluxes%2C%20saya%20tertarik%20dengan%20Blazer%20Tailored%20Wol-Linen%20Olive%20(PLX-DEMO-001)%20seharga%20Rp%20485.000.%20Link%3A%20http%3A%2F%2Flocalhost%3A3000%2Fproduct%2Fblazer-tailored-wol-linen-olive",
+      "socialCaptions": {
+        "id": "Blazer Tailored Wol-Linen Olive · Grade B\nUkuran: M (Fit L ringan) (LD/Chest 54 cm · P/Length 73 cm · Bahu/Shoulder 45 cm · Lengan/Sleeve 61 cm)\nMaterial: Campuran Wol & Linen (perkiraan label dalam)\nCatatan kondisi: Kondisi sangat baik. Struktur bahu masih tegak, furing dalam bersih, seluruh kancing utuh. Terdapat kerutan alami khas serat linen.\nInfo transparan: Sedikit tanda pemakaian wajar di lipatan siku kiri bagian dalam.\nHarga: Rp 485.000 · Stok tersedia: 1 unit unik\nLihat detail & reservasi: http://localhost:3000/product/blazer-tailored-wol-linen-olive\n— Temukan yang berharga. Rawat lebih lama. #preluxes #curatedsecondhand",
+        "en": "Blazer Tailored Wol-Linen Olive · Condition Grade B\nSize: M (Fit L ringan) (LD/Chest 54 cm · P/Length 73 cm · Bahu/Shoulder 45 cm · Lengan/Sleeve 61 cm)\nMaterial: Campuran Wol & Linen (perkiraan label dalam)\nCondition note: Kondisi sangat baik. Struktur bahu masih tegak, furing dalam bersih, seluruh kancing utuh. Terdapat kerutan alami khas serat linen.\nPrice: Rp 485.000 · 1 unique piece(s) available\nReserve online or via WhatsApp Admin: http://localhost:3000/product/blazer-tailored-wol-linen-olive\n— Find what endures. Care for it longer. #preluxes",
+        "de": "Blazer Tailored Wol-Linen Olive · Zustand Note B\nGröße: M (Fit L ringan) (LD/Chest 54 cm · P/Length 73 cm · Bahu/Shoulder 45 cm · Lengan/Sleeve 61 cm)\nMaterial: Campuran Wol & Linen (perkiraan label dalam)\nZustandshinweis: Kondisi sangat baik. Struktur bahu masih tegak, furing dalam bersih, seluruh kancing utuh. Terdapat kerutan alami khas serat linen.\nPreis: Rp 485.000 · 1 Einzelstück(e) verfügbar\nOnline reservieren oder per WhatsApp anfragen: http://localhost:3000/product/blazer-tailored-wol-linen-olive\n— Wertvolles entdecken. Länger pflegen. #preluxes",
+        "fr": "Blazer Tailored Wol-Linen Olive · État Grade B\nTaille : M (Fit L ringan) (LD/Chest 54 cm · P/Length 73 cm · Bahu/Shoulder 45 cm · Lengan/Sleeve 61 cm)\nMatière : Campuran Wol & Linen (perkiraan label dalam)\nNote d’état : Kondisi sangat baik. Struktur bahu masih tegak, furing dalam bersih, seluruh kancing utuh. Terdapat kerutan alami khas serat linen.\nPrix : Rp 485.000 · 1 pièce(s) unique(s) disponible(s)\nRéserver en ligne ou via WhatsApp Admin : http://localhost:3000/product/blazer-tailored-wol-linen-olive\n— Trouver ce qui dure. En prendre soin plus longtemps. #preluxes"
+      }
+    },
+    {
+      "id": "demo-prod-handbag",
+      "sku": "PLX-DEMO-002",
+      "slug": "tas-kulit-terstruktur-espresso-clasp",
+      "name": "Tas Kulit Terstruktur Espresso Clasp",
+      "description": "Item demonstrasi: tas jinjing top-handle berbahan kulit sapi terstruktur dengan pengait logam bernuansa kuningan. Muat dompet panjang, ponsel, dan buku saku.",
+      "categoryId": "cat-tas",
+      "categoryName": "Tas",
+      "brandName": "Kurasi Klasik (Contoh)",
+      "gender": "Women",
+      "sizeLabel": "One Size",
+      "color": "Cokelat Espresso",
+      "material": "Kulit sapi dengan furing kanvas katun",
+      "conditionGrade": "B",
+      "conditionNotes": "Patina kulit merata dan bentuk bodi tetap kokoh saat berdiri. Pengunci clasp berfungsi baik.",
+      "defectNotes": "Goresan halus pemakaian di sudut bawah kanan dan sedikit oksidasi ringan pada hardware pengait.",
+      "measurements": {
+        "bagWidthCm": 29,
+        "bagHeightCm": 22
+      },
+      "originalPrice": 1250000,
+      "sellingPrice": 740000,
+      "sellingPriceFormatted": "Rp 740.000",
+      "availableQuantity": 1,
+      "isPurchasable": true,
+      "isFeatured": true,
+      "isDemo": true,
+      "primaryImageUrl": "http://localhost:3000/src/assets/images/item_leather_tote_1794946985545.jpg",
+      "images": [
+        {
+          "url": "http://localhost:3000/src/assets/images/item_leather_tote_1794946985545.jpg",
+          "altText": "Tas Kulit Terstruktur Espresso Clasp (Data Demonstrasi)",
+          "imageType": "front",
+          "isPrimary": true,
+          "sortOrder": 0
+        }
+      ],
+      "productUrl": "http://localhost:3000/product/tas-kulit-terstruktur-espresso-clasp",
+      "whatsappInquiryUrl": "https://wa.me/6281200000000?text=Halo%20Admin%20Preluxes%2C%20saya%20tertarik%20dengan%20Tas%20Kulit%20Terstruktur%20Espresso%20Clasp%20(PLX-DEMO-002)%20seharga%20Rp%20740.000.%20Link%3A%20http%3A%2F%2Flocalhost%3A3000%2Fproduct%2Ftas-kulit-terstruktur-espresso-clasp",
+      "socialCaptions": {
+        "id": "Tas Kulit Terstruktur Espresso Clasp · Grade B\nUkuran: One Size (29 × 22 cm)\nMaterial: Kulit sapi dengan furing kanvas katun\nCatatan kondisi: Patina kulit merata dan bentuk bodi tetap kokoh saat berdiri. Pengunci clasp berfungsi baik.\nInfo transparan: Goresan halus pemakaian di sudut bawah kanan dan sedikit oksidasi ringan pada hardware pengait.\nHarga: Rp 740.000 · Stok tersedia: 1 unit unik\nLihat detail & reservasi: http://localhost:3000/product/tas-kulit-terstruktur-espresso-clasp\n— Temukan yang berharga. Rawat lebih lama. #preluxes #curatedsecondhand",
+        "en": "Tas Kulit Terstruktur Espresso Clasp · Condition Grade B\nSize: One Size (29 × 22 cm)\nMaterial: Kulit sapi dengan furing kanvas katun\nCondition note: Patina kulit merata dan bentuk bodi tetap kokoh saat berdiri. Pengunci clasp berfungsi baik.\nPrice: Rp 740.000 · 1 unique piece(s) available\nReserve online or via WhatsApp Admin: http://localhost:3000/product/tas-kulit-terstruktur-espresso-clasp\n— Find what endures. Care for it longer. #preluxes",
+        "de": "Tas Kulit Terstruktur Espresso Clasp · Zustand Note B\nGröße: One Size (29 × 22 cm)\nMaterial: Kulit sapi dengan furing kanvas katun\nZustandshinweis: Patina kulit merata dan bentuk bodi tetap kokoh saat berdiri. Pengunci clasp berfungsi baik.\nPreis: Rp 740.000 · 1 Einzelstück(e) verfügbar\nOnline reservieren oder per WhatsApp anfragen: http://localhost:3000/product/tas-kulit-terstruktur-espresso-clasp\n— Wertvolles entdecken. Länger pflegen. #preluxes",
+        "fr": "Tas Kulit Terstruktur Espresso Clasp · État Grade B\nTaille : One Size (29 × 22 cm)\nMatière : Kulit sapi dengan furing kanvas katun\nNote d’état : Patina kulit merata dan bentuk bodi tetap kokoh saat berdiri. Pengunci clasp berfungsi baik.\nPrix : Rp 740.000 · 1 pièce(s) unique(s) disponible(s)\nRéserver en ligne ou via WhatsApp Admin : http://localhost:3000/product/tas-kulit-terstruktur-espresso-clasp\n— Trouver ce qui dure. En prendre soin plus longtemps. #preluxes"
+      }
+    },
+    {
+      "id": "demo-prod-slip-dress",
+      "sku": "PLX-DEMO-003",
+      "slug": "gaun-midi-sutra-bias-cut-ivory",
+      "name": "Gaun Midi Sutra Bias-Cut Ivory",
+      "description": "Item demonstrasi: gaun midi potongan bias yang jatuh lembut mengikuti siluet tubuh, mudah dipadukan dengan luaran blazer atau rajutan ringan.",
+      "categoryId": "cat-pakaian",
+      "categoryName": "Pakaian",
+      "brandName": "Arsip Harian (Contoh)",
+      "gender": "Women",
+      "sizeLabel": "S",
+      "color": "Ivory Champagne",
+      "material": "Sutra satin (tag komposisi terbaca 100% silk)",
+      "conditionGrade": "A",
+      "conditionNotes": "Sangat terawat, permukaan kain berkilau lembut tanpa tarikan benang yang mengganggu.",
+      "defectNotes": "Tidak ada noda terlihat; jahitan keliman bawah utuh.",
+      "measurements": {
+        "chestWidthCm": 44,
+        "lengthCm": 114,
+        "waistCm": 74
+      },
+      "originalPrice": null,
+      "sellingPrice": 520000,
+      "sellingPriceFormatted": "Rp 520.000",
+      "availableQuantity": 1,
+      "isPurchasable": true,
+      "isFeatured": true,
+      "isDemo": true,
+      "primaryImageUrl": "http://localhost:3000/src/assets/images/item_silk_dress_1794946985939.jpg",
+      "images": [
+        {
+          "url": "http://localhost:3000/src/assets/images/item_silk_dress_1794946985939.jpg",
+          "altText": "Gaun Midi Sutra Bias-Cut Ivory (Data Demonstrasi)",
+          "imageType": "front",
+          "isPrimary": true,
+          "sortOrder": 0
+        }
+      ],
+      "productUrl": "http://localhost:3000/product/gaun-midi-sutra-bias-cut-ivory",
+      "whatsappInquiryUrl": "https://wa.me/6281200000000?text=Halo%20Admin%20Preluxes%2C%20saya%20tertarik%20dengan%20Gaun%20Midi%20Sutra%20Bias-Cut%20Ivory%20(PLX-DEMO-003)%20seharga%20Rp%20520.000.%20Link%3A%20http%3A%2F%2Flocalhost%3A3000%2Fproduct%2Fgaun-midi-sutra-bias-cut-ivory",
+      "socialCaptions": {
+        "id": "Gaun Midi Sutra Bias-Cut Ivory · Grade A\nUkuran: S (LD/Chest 44 cm · P/Length 114 cm · Pinggang/Waist 74 cm)\nMaterial: Sutra satin (tag komposisi terbaca 100% silk)\nCatatan kondisi: Sangat terawat, permukaan kain berkilau lembut tanpa tarikan benang yang mengganggu.\nInfo transparan: Tidak ada noda terlihat; jahitan keliman bawah utuh.\nHarga: Rp 520.000 · Stok tersedia: 1 unit unik\nLihat detail & reservasi: http://localhost:3000/product/gaun-midi-sutra-bias-cut-ivory\n— Temukan yang berharga. Rawat lebih lama. #preluxes #curatedsecondhand",
+        "en": "Gaun Midi Sutra Bias-Cut Ivory · Condition Grade A\nSize: S (LD/Chest 44 cm · P/Length 114 cm · Pinggang/Waist 74 cm)\nMaterial: Sutra satin (tag komposisi terbaca 100% silk)\nCondition note: Sangat terawat, permukaan kain berkilau lembut tanpa tarikan benang yang mengganggu.\nPrice: Rp 520.000 · 1 unique piece(s) available\nReserve online or via WhatsApp Admin: http://localhost:3000/product/gaun-midi-sutra-bias-cut-ivory\n— Find what endures. Care for it longer. #preluxes",
+        "de": "Gaun Midi Sutra Bias-Cut Ivory · Zustand Note A\nGröße: S (LD/Chest 44 cm · P/Length 114 cm · Pinggang/Waist 74 cm)\nMaterial: Sutra satin (tag komposisi terbaca 100% silk)\nZustandshinweis: Sangat terawat, permukaan kain berkilau lembut tanpa tarikan benang yang mengganggu.\nPreis: Rp 520.000 · 1 Einzelstück(e) verfügbar\nOnline reservieren oder per WhatsApp anfragen: http://localhost:3000/product/gaun-midi-sutra-bias-cut-ivory\n— Wertvolles entdecken. Länger pflegen. #preluxes",
+        "fr": "Gaun Midi Sutra Bias-Cut Ivory · État Grade A\nTaille : S (LD/Chest 44 cm · P/Length 114 cm · Pinggang/Waist 74 cm)\nMatière : Sutra satin (tag komposisi terbaca 100% silk)\nNote d’état : Sangat terawat, permukaan kain berkilau lembut tanpa tarikan benang yang mengganggu.\nPrix : Rp 520.000 · 1 pièce(s) unique(s) disponible(s)\nRéserver en ligne ou via WhatsApp Admin : http://localhost:3000/product/gaun-midi-sutra-bias-cut-ivory\n— Trouver ce qui dure. En prendre soin plus longtemps. #preluxes"
+      }
+    },
+    {
+      "id": "demo-prod-trench",
+      "sku": "PLX-DEMO-004",
+      "slug": "trench-coat-gabardine-sand-classic",
+      "name": "Trench Coat Gabardine Sand Classic",
+      "description": "Item demonstrasi: mantel trench klasik lengkap dengan ikat pinggang ber-buckle dan manset berkancing untuk perjalanan maupun cuaca hujan ringan.",
+      "categoryId": "cat-pakaian",
+      "categoryName": "Pakaian",
+      "brandName": "Kurasi Klasik (Contoh)",
+      "gender": "Unisex",
+      "sizeLabel": "L",
+      "color": "Sand Beige",
+      "material": "Katun Gabardine rapat",
+      "conditionGrade": "B",
+      "conditionNotes": "Seluruh kancing horn-look lengkap, sabuk pinggang asli tersedia, kerah bersih.",
+      "defectNotes": "Lapisan kulit pada buckle sabuk menunjukkan penuaan ringan di bagian tepi.",
+      "measurements": {
+        "chestWidthCm": 58,
+        "lengthCm": 102,
+        "shoulderWidthCm": 48,
+        "sleeveLengthCm": 63
+      },
+      "originalPrice": 1100000,
+      "sellingPrice": 680000,
+      "sellingPriceFormatted": "Rp 680.000",
+      "availableQuantity": 1,
+      "isPurchasable": true,
+      "isFeatured": false,
+      "isDemo": true,
+      "primaryImageUrl": "http://localhost:3000/src/assets/images/item_trench_coat_1794946986088.jpg",
+      "images": [
+        {
+          "url": "http://localhost:3000/src/assets/images/item_trench_coat_1794946986088.jpg",
+          "altText": "Trench Coat Gabardine Sand Classic (Data Demonstrasi)",
+          "imageType": "front",
+          "isPrimary": true,
+          "sortOrder": 0
+        }
+      ],
+      "productUrl": "http://localhost:3000/product/trench-coat-gabardine-sand-classic",
+      "whatsappInquiryUrl": "https://wa.me/6281200000000?text=Halo%20Admin%20Preluxes%2C%20saya%20tertarik%20dengan%20Trench%20Coat%20Gabardine%20Sand%20Classic%20(PLX-DEMO-004)%20seharga%20Rp%20680.000.%20Link%3A%20http%3A%2F%2Flocalhost%3A3000%2Fproduct%2Ftrench-coat-gabardine-sand-classic",
+      "socialCaptions": {
+        "id": "Trench Coat Gabardine Sand Classic · Grade B\nUkuran: L (LD/Chest 58 cm · P/Length 102 cm · Bahu/Shoulder 48 cm · Lengan/Sleeve 63 cm)\nMaterial: Katun Gabardine rapat\nCatatan kondisi: Seluruh kancing horn-look lengkap, sabuk pinggang asli tersedia, kerah bersih.\nInfo transparan: Lapisan kulit pada buckle sabuk menunjukkan penuaan ringan di bagian tepi.\nHarga: Rp 680.000 · Stok tersedia: 1 unit unik\nLihat detail & reservasi: http://localhost:3000/product/trench-coat-gabardine-sand-classic\n— Temukan yang berharga. Rawat lebih lama. #preluxes #curatedsecondhand",
+        "en": "Trench Coat Gabardine Sand Classic · Condition Grade B\nSize: L (LD/Chest 58 cm · P/Length 102 cm · Bahu/Shoulder 48 cm · Lengan/Sleeve 63 cm)\nMaterial: Katun Gabardine rapat\nCondition note: Seluruh kancing horn-look lengkap, sabuk pinggang asli tersedia, kerah bersih.\nPrice: Rp 680.000 · 1 unique piece(s) available\nReserve online or via WhatsApp Admin: http://localhost:3000/product/trench-coat-gabardine-sand-classic\n— Find what endures. Care for it longer. #preluxes",
+        "de": "Trench Coat Gabardine Sand Classic · Zustand Note B\nGröße: L (LD/Chest 58 cm · P/Length 102 cm · Bahu/Shoulder 48 cm · Lengan/Sleeve 63 cm)\nMaterial: Katun Gabardine rapat\nZustandshinweis: Seluruh kancing horn-look lengkap, sabuk pinggang asli tersedia, kerah bersih.\nPreis: Rp 680.000 · 1 Einzelstück(e) verfügbar\nOnline reservieren oder per WhatsApp anfragen: http://localhost:3000/product/trench-coat-gabardine-sand-classic\n— Wertvolles entdecken. Länger pflegen. #preluxes",
+        "fr": "Trench Coat Gabardine Sand Classic · État Grade B\nTaille : L (LD/Chest 58 cm · P/Length 102 cm · Bahu/Shoulder 48 cm · Lengan/Sleeve 63 cm)\nMatière : Katun Gabardine rapat\nNote d’état : Seluruh kancing horn-look lengkap, sabuk pinggang asli tersedia, kerah bersih.\nPrix : Rp 680.000 · 1 pièce(s) unique(s) disponible(s)\nRéserver en ligne ou via WhatsApp Admin : http://localhost:3000/product/trench-coat-gabardine-sand-classic\n— Trouver ce qui dure. En prendre soin plus longtemps. #preluxes"
+      }
+    },
+    {
+      "id": "demo-prod-loafers",
+      "sku": "PLX-DEMO-005",
+      "slug": "penny-loafers-kulit-espresso",
+      "name": "Penny Loafers Kulit Espresso",
+      "description": "Item demonstrasi: sepatu penny loafers klasik dengan konstruksi sol jahit yang nyaman untuk pemakaian harian maupun semi-formal.",
+      "categoryId": "cat-sepatu",
+      "categoryName": "Sepatu",
+      "brandName": "Arsip Harian (Contoh)",
+      "gender": "Unisex",
+      "sizeLabel": "EU 41",
+      "color": "Cokelat Tua",
+      "material": "Kulit calfskin bagian luar, sol karet-kulit",
+      "conditionGrade": "C",
+      "conditionNotes": "Upper kulit sudah lentur nyaman dipakai. Bagian dalam bersih dan telah dibersihkan sebelum pemotretan.",
+      "defectNotes": "Lipatan pemakaian (creasing) terlihat di punggung sepatu dan keausan ringan pada tumit luar sol.",
+      "measurements": {
+        "shoeSizeEu": "EU 41 (insole ~26 cm)"
+      },
+      "originalPrice": 780000,
+      "sellingPrice": 390000,
+      "sellingPriceFormatted": "Rp 390.000",
+      "availableQuantity": 1,
+      "isPurchasable": true,
+      "isFeatured": false,
+      "isDemo": true,
+      "primaryImageUrl": "http://localhost:3000/src/assets/images/item_leather_loafers_1794947344379.jpg",
+      "images": [
+        {
+          "url": "http://localhost:3000/src/assets/images/item_leather_loafers_1794947344379.jpg",
+          "altText": "Penny Loafers Kulit Espresso (Data Demonstrasi)",
+          "imageType": "front",
+          "isPrimary": true,
+          "sortOrder": 0
+        }
+      ],
+      "productUrl": "http://localhost:3000/product/penny-loafers-kulit-espresso",
+      "whatsappInquiryUrl": "https://wa.me/6281200000000?text=Halo%20Admin%20Preluxes%2C%20saya%20tertarik%20dengan%20Penny%20Loafers%20Kulit%20Espresso%20(PLX-DEMO-005)%20seharga%20Rp%20390.000.%20Link%3A%20http%3A%2F%2Flocalhost%3A3000%2Fproduct%2Fpenny-loafers-kulit-espresso",
+      "socialCaptions": {
+        "id": "Penny Loafers Kulit Espresso · Grade C\nUkuran: EU 41 (EU 41 (insole ~26 cm))\nMaterial: Kulit calfskin bagian luar, sol karet-kulit\nCatatan kondisi: Upper kulit sudah lentur nyaman dipakai. Bagian dalam bersih dan telah dibersihkan sebelum pemotretan.\nInfo transparan: Lipatan pemakaian (creasing) terlihat di punggung sepatu dan keausan ringan pada tumit luar sol.\nHarga: Rp 390.000 · Stok tersedia: 1 unit unik\nLihat detail & reservasi: http://localhost:3000/product/penny-loafers-kulit-espresso\n— Temukan yang berharga. Rawat lebih lama. #preluxes #curatedsecondhand",
+        "en": "Penny Loafers Kulit Espresso · Condition Grade C\nSize: EU 41 (EU 41 (insole ~26 cm))\nMaterial: Kulit calfskin bagian luar, sol karet-kulit\nCondition note: Upper kulit sudah lentur nyaman dipakai. Bagian dalam bersih dan telah dibersihkan sebelum pemotretan.\nPrice: Rp 390.000 · 1 unique piece(s) available\nReserve online or via WhatsApp Admin: http://localhost:3000/product/penny-loafers-kulit-espresso\n— Find what endures. Care for it longer. #preluxes",
+        "de": "Penny Loafers Kulit Espresso · Zustand Note C\nGröße: EU 41 (EU 41 (insole ~26 cm))\nMaterial: Kulit calfskin bagian luar, sol karet-kulit\nZustandshinweis: Upper kulit sudah lentur nyaman dipakai. Bagian dalam bersih dan telah dibersihkan sebelum pemotretan.\nPreis: Rp 390.000 · 1 Einzelstück(e) verfügbar\nOnline reservieren oder per WhatsApp anfragen: http://localhost:3000/product/penny-loafers-kulit-espresso\n— Wertvolles entdecken. Länger pflegen. #preluxes",
+        "fr": "Penny Loafers Kulit Espresso · État Grade C\nTaille : EU 41 (EU 41 (insole ~26 cm))\nMatière : Kulit calfskin bagian luar, sol karet-kulit\nNote d’état : Upper kulit sudah lentur nyaman dipakai. Bagian dalam bersih dan telah dibersihkan sebelum pemotretan.\nPrix : Rp 390.000 · 1 pièce(s) unique(s) disponible(s)\nRéserver en ligne ou via WhatsApp Admin : http://localhost:3000/product/penny-loafers-kulit-espresso\n— Trouver ce qui dure. En prendre soin plus longtemps. #preluxes"
+      }
+    },
+    {
+      "id": "demo-prod-necklace",
+      "sku": "PLX-DEMO-006",
+      "slug": "kalung-rantai-liontin-sculptural-brushed-gold",
+      "name": "Kalung Rantai Liontin Sculptural Brushed Gold",
+      "description": "Item demonstrasi: kalung rantai pendek dengan liontin organik bertekstur matte yang memberi aksen hangat pada kemeja polos atau gaun.",
+      "categoryId": "cat-aksesori",
+      "categoryName": "Aksesori",
+      "brandName": "Arsip Harian (Contoh)",
+      "gender": "Women",
+      "sizeLabel": "44 cm",
+      "color": "Brushed Gold",
+      "material": "Logam campuran lapis warna emas (bukan emas murni)",
+      "conditionGrade": "B",
+      "conditionNotes": "Pengait rantai berfungsi lancar, tekstur liontin terjaga baik tanpa perubahan warna mencolok.",
+      "defectNotes": "Goresan mikro pada bagian belakang liontin yang tidak terlihat saat dikenakan.",
+      "measurements": {
+        "lengthCm": 44
+      },
+      "originalPrice": null,
+      "sellingPrice": 245000,
+      "sellingPriceFormatted": "Rp 245.000",
+      "availableQuantity": 1,
+      "isPurchasable": true,
+      "isFeatured": false,
+      "isDemo": true,
+      "primaryImageUrl": "http://localhost:3000/src/assets/images/item_gold_necklace_1794947344193.jpg",
+      "images": [
+        {
+          "url": "http://localhost:3000/src/assets/images/item_gold_necklace_1794947344193.jpg",
+          "altText": "Kalung Rantai Liontin Sculptural Brushed Gold (Data Demonstrasi)",
+          "imageType": "front",
+          "isPrimary": true,
+          "sortOrder": 0
+        }
+      ],
+      "productUrl": "http://localhost:3000/product/kalung-rantai-liontin-sculptural-brushed-gold",
+      "whatsappInquiryUrl": "https://wa.me/6281200000000?text=Halo%20Admin%20Preluxes%2C%20saya%20tertarik%20dengan%20Kalung%20Rantai%20Liontin%20Sculptural%20Brushed%20Gold%20(PLX-DEMO-006)%20seharga%20Rp%20245.000.%20Link%3A%20http%3A%2F%2Flocalhost%3A3000%2Fproduct%2Fkalung-rantai-liontin-sculptural-brushed-gold",
+      "socialCaptions": {
+        "id": "Kalung Rantai Liontin Sculptural Brushed Gold · Grade B\nUkuran: 44 cm (P/Length 44 cm)\nMaterial: Logam campuran lapis warna emas (bukan emas murni)\nCatatan kondisi: Pengait rantai berfungsi lancar, tekstur liontin terjaga baik tanpa perubahan warna mencolok.\nInfo transparan: Goresan mikro pada bagian belakang liontin yang tidak terlihat saat dikenakan.\nHarga: Rp 245.000 · Stok tersedia: 1 unit unik\nLihat detail & reservasi: http://localhost:3000/product/kalung-rantai-liontin-sculptural-brushed-gold\n— Temukan yang berharga. Rawat lebih lama. #preluxes #curatedsecondhand",
+        "en": "Kalung Rantai Liontin Sculptural Brushed Gold · Condition Grade B\nSize: 44 cm (P/Length 44 cm)\nMaterial: Logam campuran lapis warna emas (bukan emas murni)\nCondition note: Pengait rantai berfungsi lancar, tekstur liontin terjaga baik tanpa perubahan warna mencolok.\nPrice: Rp 245.000 · 1 unique piece(s) available\nReserve online or via WhatsApp Admin: http://localhost:3000/product/kalung-rantai-liontin-sculptural-brushed-gold\n— Find what endures. Care for it longer. #preluxes",
+        "de": "Kalung Rantai Liontin Sculptural Brushed Gold · Zustand Note B\nGröße: 44 cm (P/Length 44 cm)\nMaterial: Logam campuran lapis warna emas (bukan emas murni)\nZustandshinweis: Pengait rantai berfungsi lancar, tekstur liontin terjaga baik tanpa perubahan warna mencolok.\nPreis: Rp 245.000 · 1 Einzelstück(e) verfügbar\nOnline reservieren oder per WhatsApp anfragen: http://localhost:3000/product/kalung-rantai-liontin-sculptural-brushed-gold\n— Wertvolles entdecken. Länger pflegen. #preluxes",
+        "fr": "Kalung Rantai Liontin Sculptural Brushed Gold · État Grade B\nTaille : 44 cm (P/Length 44 cm)\nMatière : Logam campuran lapis warna emas (bukan emas murni)\nNote d’état : Pengait rantai berfungsi lancar, tekstur liontin terjaga baik tanpa perubahan warna mencolok.\nPrix : Rp 245.000 · 1 pièce(s) unique(s) disponible(s)\nRéserver en ligne ou via WhatsApp Admin : http://localhost:3000/product/kalung-rantai-liontin-sculptural-brushed-gold\n— Trouver ce qui dure. En prendre soin plus longtemps. #preluxes"
+      }
+    }
+  ]
+}

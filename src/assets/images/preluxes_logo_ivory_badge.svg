@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="preluxes square social avatar badge">
+  <style>
+    .wordmark {
+      font-family: Georgia, 'Liberation Serif', 'DejaVu Serif', 'Times New Roman', serif;
+      font-size: 62px;
+      font-weight: 400;
+      letter-spacing: -1.5px;
+      fill: #30302E;
+    }
+    .sub {
+      font-family: Georgia, 'Liberation Serif', 'Times New Roman', serif;
+      font-style: italic;
+      font-size: 13px;
+      fill: #30302E;
+      opacity: 0.78;
+    }
+  </style>
+  <rect width="400" height="400" fill="#FAF7F2" />
+  <rect x="24" y="24" width="352" height="352" fill="#E9BBAA" fill-opacity="0.35" stroke="#30302E" stroke-opacity="0.2" stroke-width="1.5" />
+  <text x="200" y="208" text-anchor="middle" class="wordmark">preluxes</text>
+  <path d="M 223 178 C 239 149, 277 144, 302 159 C 279 149, 243 154, 227 179 Z" fill="#30302E" />
+  <text x="200" y="250" text-anchor="middle" class="sub">curated secondhand</text>
+</svg>

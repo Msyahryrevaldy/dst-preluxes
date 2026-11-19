@@ -1,0 +1,178 @@
+{
+  "brand": {
+    "name": "Preluxes",
+    "stylizedWordmark": "preluxes",
+    "tagline": "Temukan yang berharga. Rawat lebih lama.",
+    "taglineTranslations": {
+      "id": "Temukan yang berharga. Rawat lebih lama.",
+      "en": "Find what endures. Care for it longer.",
+      "de": "Wertvolles entdecken. Länger pflegen.",
+      "fr": "Trouver ce qui dure. En prendre soin plus longtemps."
+    },
+    "storeModel": "Single-Owner Curated Secondhand Fashion Marketplace",
+    "currency": "IDR",
+    "timezone": "Asia/Jakarta",
+    "paymentFlow": "WhatsApp Chat Confirmation with Atomic Server Stock Reservation",
+    "languagesSupported": [
+      "id",
+      "en",
+      "de",
+      "fr"
+    ]
+  },
+  "colors": {
+    "primaryPeach": {
+      "hex": "#E9BBAA",
+      "role": "Main Brand Accent, Primary CTA Fill, Announcement Bar, Navigation Hover & Active Pills"
+    },
+    "primaryPeachHover": {
+      "hex": "#DFA691",
+      "role": "Primary Button Hover / Pressed State"
+    },
+    "ivoryBackground": {
+      "hex": "#FAF7F2",
+      "role": "Warm Editorial Page Canvas & Surface Background"
+    },
+    "cardWhite": {
+      "hex": "#FFFFFF",
+      "role": "Product Cards, Panels, Modals, Admin Surfaces"
+    },
+    "charcoalInk": {
+      "hex": "#30302E",
+      "role": "Primary Text, Headings, Hairline Borders, Wordmark Ink (AAA contrast on #E9BBAA and #FAF7F2)"
+    },
+    "paleSky": {
+      "hex": "#BCD2DF",
+      "role": "Secondary Soft Accent, Badges & Condition Highlights"
+    }
+  },
+  "typography": {
+    "displayAndHeadings": {
+      "family": "Libre Baskerville",
+      "weights": [
+        400,
+        700
+      ],
+      "styles": [
+        "normal",
+        "italic"
+      ],
+      "usage": "Wordmark, Page Titles, Editorial Stories, Section Headers"
+    },
+    "bodyAndUi": {
+      "family": "Plus Jakarta Sans",
+      "weights": [
+        400,
+        500,
+        600,
+        700
+      ],
+      "usage": "Navigation, Filters, Product Specs, Forms, Buttons"
+    },
+    "tabularNumbersAndSku": {
+      "family": "JetBrains Mono",
+      "weights": [
+        400,
+        500
+      ],
+      "usage": "IDR Prices, SKU Codes, CM Measurements, Order Numbers"
+    }
+  },
+  "logos": {
+    "uploadedOriginalPng": "/assets/aistudio/preluxes_52ad05c5.png",
+    "charcoalWordmarkSvg": "/brand-kit/preluxes-logo-charcoal.svg",
+    "peachBrandCardSvg": "/brand-kit/preluxes-logo-peach-card.svg",
+    "ivoryAvatarBadgeSvg": "/brand-kit/preluxes-logo-ivory-badge.svg",
+    "logoNotes": "Lowercase serif 'preluxes' with signature arched curve above 'x-es'. Always ensure charcoal #30302E text on light ivory (#FAF7F2) or peach (#E9BBAA) backgrounds."
+  },
+  "conditionGrades": {
+    "A": "Like New — Hampir tidak tampak tanda pemakaian; detail dan struktur sangat terjaga.",
+    "B": "Very Good — Tanda pemakaian ringan dan wajar, terawat rapi tanpa kekurangan fungsional.",
+    "C": "Good — Tanda pemakaian terlihat jelas dan dicatat secara terbuka pada deskripsi.",
+    "D": "Wearable — Memiliki keausan atau kekurangan spesifik yang didokumentasikan dengan foto."
+  },
+  "photographyAssets": [
+    {
+      "id": "hero-editorial",
+      "role": "Hero Banner / Brand Campaign",
+      "path": "/src/assets/images/hero_preluxes_editorial_1794946984633.jpg"
+    },
+    {
+      "id": "linen-blazer",
+      "sku": "PLX-DEMO-001",
+      "role": "Product: Blazer Tailored Wol-Linen Olive",
+      "path": "/src/assets/images/item_linen_blazer_1794946984670.jpg"
+    },
+    {
+      "id": "leather-tote",
+      "sku": "PLX-DEMO-002",
+      "role": "Product: Tas Kulit Terstruktur Espresso Clasp",
+      "path": "/src/assets/images/item_leather_tote_1794946985545.jpg"
+    },
+    {
+      "id": "silk-dress",
+      "sku": "PLX-DEMO-003",
+      "role": "Product: Gaun Midi Sutra Bias-Cut Ivory",
+      "path": "/src/assets/images/item_silk_dress_1794946985939.jpg"
+    },
+    {
+      "id": "trench-coat",
+      "sku": "PLX-DEMO-004",
+      "role": "Product: Trench Coat Gabardine Sand Classic",
+      "path": "/src/assets/images/item_trench_coat_1794946986088.jpg"
+    },
+    {
+      "id": "leather-loafers",
+      "sku": "PLX-DEMO-005",
+      "role": "Product: Penny Loafers Kulit Espresso",
+      "path": "/src/assets/images/item_leather_loafers_1794947344379.jpg"
+    },
+    {
+      "id": "gold-necklace",
+      "sku": "PLX-DEMO-006",
+      "role": "Product: Kalung Rantai Liontin Sculptural Brushed Gold",
+      "path": "/src/assets/images/item_gold_necklace_1794947344193.jpg"
+    }
+  ],
+  "agencyIntegration": {
+    "targetStudioAppUrl": "https://aistudio.google.com/apps/c6e048f9-6f7c-443c-a9fb-de31247fbd13?showPreview=true&showAssistant=true&fullscreenApplet=true",
+    "targetStudioAppId": "c6e048f9-6f7c-443c-a9fb-de31247fbd13",
+    "catalogFeedEndpoint": "/api/integration/catalog-feed.json",
+    "brandKitEndpoint": "/api/integration/brand-kit.json",
+    "brandAssetsZipEndpoint": "/api/integration/brand-assets.zip",
+    "adminMasterSourceZipEndpoint": "/api/admin/master-package.zip"
+  },
+  "generatedAt": "2026-11-18T10:10:59.895Z",
+  "storefrontUrl": "http://localhost:3000",
+  "storeProfile": {
+    "storeName": "Preluxes",
+    "tagline": "Temukan yang berharga. Rawat lebih lama.",
+    "instagramHandle": "@preluxes (Konsep)",
+    "contactEmail": "kontak@contoh-preluxes.id (Placeholder)",
+    "contactWhatsapp": "+62 812-0000-0000 (Placeholder)",
+    "timezone": "Asia/Jakarta",
+    "currency": "IDR",
+    "reservationMinutes": 15,
+    "handlingTimeText": "1–2 hari kerja (WIB) setelah pembayaran terverifikasi (Contoh kebijakan)."
+  },
+  "cmsCopy": {
+    "heroTitle": "Temukan yang berharga. Rawat lebih lama.",
+    "heroSubtitle": "Preluxes menghadirkan fashion secondhand terkurasi—tas, pakaian, sepatu, dan aksesori—dengan ukuran aktual, bahan yang diketahui, serta catatan kondisi yang jujur.",
+    "heroImageUrl": "http://localhost:3000/src/assets/images/hero_preluxes_editorial_1794946984633.jpg",
+    "aboutTitle": "Cerita yang belum selesai",
+    "aboutBody": "Ada barang yang selesai dipakai seseorang, tetapi masih punya tempat dalam hidup orang lain. Preluxes membuka ruang untuk pertemuan berikutnya—membantu Anda memilih dengan lebih sadar, mengenali kebutuhan, memakai yang dipilih, dan merawat sesuai materialnya.",
+    "carePromiseTitle": "Kepercayaan dibangun dari hal-hal kecil, detail.",
+    "carePromiseBody": "Setiap barang dicatat secara individual: bentuk dan fungsi saat kurasi, ukuran aktual dalam sentimeter, keterbukaan kekurangan pemakaian, serta panduan perawatan sederhana agar usia pakainya lebih panjang."
+  },
+  "resolvedAssets": {
+    "uploadedOriginalLogoPng": "http://localhost:3000/assets/aistudio/preluxes_52ad05c5.png",
+    "charcoalWordmarkSvg": "http://localhost:3000/brand-kit/preluxes-logo-charcoal.svg",
+    "peachBrandCardSvg": "http://localhost:3000/brand-kit/preluxes-logo-peach-card.svg",
+    "ivoryAvatarBadgeSvg": "http://localhost:3000/brand-kit/preluxes-logo-ivory-badge.svg",
+    "brandTokensJson": "http://localhost:3000/brand-kit/preluxes-brand-tokens.json",
+    "agencyHandoffMarkdown": "http://localhost:3000/brand-kit/AGENCY_MASTER_HANDOFF.md",
+    "catalogFeedJson": "http://localhost:3000/api/integration/catalog-feed.json",
+    "brandKitJson": "http://localhost:3000/api/integration/brand-kit.json",
+    "brandAssetsZip": "http://localhost:3000/api/integration/brand-assets.zip"
+  }
+}

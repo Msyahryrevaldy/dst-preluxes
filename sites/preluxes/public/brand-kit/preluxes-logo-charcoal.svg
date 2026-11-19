@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" width="520" height="140" role="img" aria-label="preluxes wordmark">
+  <style>
+    .wordmark {
+      font-family: Georgia, 'Liberation Serif', 'DejaVu Serif', 'Times New Roman', serif;
+      font-size: 92px;
+      font-weight: 400;
+      letter-spacing: -2.5px;
+      fill: #30302E;
+    }
+  </style>
+  <text x="260" y="108" text-anchor="middle" class="wordmark">preluxes</text>
+  <!-- Arched flourish starting from upper-right arm of 'x' sweeping gracefully over 'e' toward 's' -->
+  <path d="M 294 64 C 318 22, 376 14, 412 36 C 378 21, 324 28, 300 66 Z" fill="#30302E" />
+</svg>

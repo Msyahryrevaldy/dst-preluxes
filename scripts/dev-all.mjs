@@ -14,12 +14,12 @@ if (!fs.existsSync(path.join(siteDir, 'node_modules'))) {
 }
 
 const children = [
-  spawn('npx', ['tsx', 'server.ts'], {
+  spawn(process.execPath, [path.join(siteDir, 'node_modules', 'tsx', 'dist', 'cli.mjs'), 'server.ts'], {
     cwd: siteDir,
     stdio: 'inherit',
     env: { ...process.env, PORT: sitePort, APP_URL: siteUrl, HMR_PORT: '24679' },
   }),
-  spawn('npx', ['tsx', 'server.ts'], {
+  spawn(process.execPath, [path.join(root, 'node_modules', 'tsx', 'dist', 'cli.mjs'), 'server.ts'], {
     cwd: root,
     stdio: 'inherit',
     env: { ...process.env, PORT: process.env.PORT || '3000', PRELUXES_SITE_URL: siteUrl },
